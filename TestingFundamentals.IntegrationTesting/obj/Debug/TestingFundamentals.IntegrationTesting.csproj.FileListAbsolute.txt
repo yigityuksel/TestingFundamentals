@@ -1,0 +1,9 @@
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.IntegrationTesting\bin\Debug\TestingFundamentals.IntegrationTesting.dll
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.IntegrationTesting\bin\Debug\TestingFundamentals.IntegrationTesting.pdb
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.IntegrationTesting\bin\Debug\nunit.framework.dll
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.IntegrationTesting\bin\Debug\nunit.framework.xml
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.IntegrationTesting\obj\Debug\TestingFundamentals.IntegrationTesting.csprojResolveAssemblyReference.cache
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.IntegrationTesting\obj\Debug\TestingFundamentals.IntegrationTesting.dll
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.IntegrationTesting\obj\Debug\TestingFundamentals.IntegrationTesting.pdb
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.IntegrationTesting\bin\Debug\ImpromptuInterface.dll
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.IntegrationTesting\bin\Debug\ImpromptuInterface.xml

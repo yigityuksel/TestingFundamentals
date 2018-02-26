@@ -1,0 +1,16 @@
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\bin\Debug\TestingFundamentals.Moq.dll
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\bin\Debug\TestingFundamentals.Moq.pdb
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\bin\Debug\Castle.Core.dll
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\bin\Debug\Moq.dll
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\bin\Debug\nunit.framework.dll
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\bin\Debug\System.ValueTuple.dll
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\bin\Debug\Castle.Core.xml
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\bin\Debug\Moq.pdb
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\bin\Debug\Moq.xml
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\bin\Debug\nunit.framework.xml
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\bin\Debug\System.ValueTuple.xml
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\obj\Debug\TestingFundamentals.Moq.csprojResolveAssemblyReference.cache
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\obj\Debug\TestingFundamentals.Moq.dll
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.Moq\obj\Debug\TestingFundamentals.Moq.pdb

@@ -1,0 +1,7 @@
+c:\users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.UnitTests\bin\Debug\TestingFundamentals.UnitTests.dll
+c:\users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.UnitTests\bin\Debug\TestingFundamentals.UnitTests.pdb
+c:\users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.UnitTests\bin\Debug\nunit.framework.dll
+c:\users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.UnitTests\bin\Debug\nunit.framework.xml
+c:\users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.UnitTests\obj\Debug\TestingFundamentals.UnitTests.dll
+c:\users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.UnitTests\obj\Debug\TestingFundamentals.UnitTests.pdb
+C:\Users\y.yuksel\documents\visual studio 2015\Projects\TestingFundamentals\TestingFundamentals.UnitTests\obj\Debug\TestingFundamentals.UnitTests.csprojResolveAssemblyReference.cache
