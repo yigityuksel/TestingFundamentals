@@ -24,7 +24,7 @@ namespace TestingFundamentals.Moq.MoqFundamentals
         }
 
         [Test]
-        public void MyMethod()
+        public void EventMethod()
         {
             var doctor = new Doctor(_mock.Object);
 

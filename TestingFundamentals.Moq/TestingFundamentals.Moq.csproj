@@ -67,10 +67,16 @@
     <Compile Include="Interfaces\IAnimal.cs" />
     <Compile Include="Interfaces\Ilog.cs" />
     <Compile Include="MoqFundamentals\Bar.cs" />
+    <Compile Include="MoqFundamentals\BehaviourCustomizationSamples.cs" />
+    <Compile Include="MoqFundamentals\CallBackSamples.cs" />
+    <Compile Include="MoqFundamentals\Consumer.cs" />
     <Compile Include="MoqFundamentals\EventSamples.cs" />
     <Compile Include="MoqFundamentals\IBaz.cs" />
     <Compile Include="MoqFundamentals\IFoo.cs" />
     <Compile Include="MoqFundamentals\MethodAndPropertySamples.cs" />
+    <Compile Include="MoqFundamentals\Person.cs" />
+    <Compile Include="MoqFundamentals\ProtectedMembersSamples.cs" />
+    <Compile Include="MoqFundamentals\VerificationSamples.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestClasses\BankAccountTests.cs" />
   </ItemGroup>
